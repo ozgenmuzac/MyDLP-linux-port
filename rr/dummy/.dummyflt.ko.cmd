@@ -1,0 +1,1 @@
+cmd_/home/ozgen/Desktop/virtual/dummy/dummyflt.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-33-generic/scripts/module-common.lds --build-id -o /home/ozgen/Desktop/virtual/dummy/dummyflt.ko /home/ozgen/Desktop/virtual/dummy/dummyflt.o /home/ozgen/Desktop/virtual/dummy/dummyflt.mod.o
